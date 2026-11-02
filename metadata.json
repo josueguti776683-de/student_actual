@@ -1,0 +1,8 @@
+{
+  "name": "Remix STUDENT 1",
+  "description": "Module 1: Natural Numbers 1-100. Commercial English Learning Hub with audio voice engine, three game modes, automatic write-practice loop, and error correction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

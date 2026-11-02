@@ -1,0 +1,57 @@
+================================================================================
+            CODY: CO-PILOTO OFICIAL DE APRENDIZAJE — STUDENT 1 & STUDENT 2
+================================================================================
+
+¡Hola, Josué!
+
+Aquí tienes la descripción detallada de por qué iniciamos en este "estado en blanco"
+y cómo utilizaremos estos dos prompts para dar vida a Student 2 de la mano de Cody:
+
+--------------------------------------------------------------------------------
+1. ¿POR QUÉ EMPEZAMOS EN UN "ESTADO EN BLANCO" (BLANK READY STATE)?
+--------------------------------------------------------------------------------
+Para garantizar un desarrollo limpio, preciso y sin errores de sobreescritura,
+hemos establecido que Cody (tu asistente de programación) comience en un estado
+neutral y "preparado".
+
+Esto evita que el sistema:
+  - Genere vocabulario repetido de Student 1 de forma automática.
+  - Elija colores o un diseño visual que no sea de tu agrado.
+  - Implemente lógicas de juego obsoletas antes de conocer tus nuevas ideas.
+
+Con esto, aseguramos que Student 2 sea creado desde cero con la estructura
+organizacional perfecta que tú definas, adaptándose exactamente a lo que deseas.
+
+--------------------------------------------------------------------------------
+2. EL ROL DE CODY EN AMBOS PROYECTOS (STUDENT 1 Y STUDENT 2)
+--------------------------------------------------------------------------------
+Cody no es solo un asistente para una sola aplicación; es tu compañero constante
+de desarrollo que posee la memoria y los planos completos de Student 1.
+
+Su misión es:
+  - Respetar todo el conocimiento técnico adquirido en Student 1 (como el motor
+    de audio Speak, los exámenes interactivos, la penalización por errores,
+    y el test de 8 palabras rotativo).
+  - Usar esta base para implementar Student 2 de manera eficiente, estructurando
+    el nuevo vocabulario, nuevos colores, y nuevos flujos que decidas integrar.
+
+--------------------------------------------------------------------------------
+3. ¿CÓMO SE USARÁN LOS DOS PROMPTS DE TRANSFERENCIA?
+--------------------------------------------------------------------------------
+Cuando decidas abrir tu nuevo proyecto de Student 2 en una nueva sesión o chat,
+le darás estos dos prompts en orden a Cody:
+
+  * PROMPT 1 (RECAP DE STUDENT 1):
+    Le enseña a Cody el contexto completo del primer proyecto: las lógicas de
+    los juegos (PLAY 1, PLAY 2, PLAY 3), la penalización detallada y el sistema
+    de estadísticas.
+
+  * PROMPT 2 (ESTRUCTURA DE STUDENT 2):
+    Configura las reglas del nuevo proyecto: la modularidad, la optimización para
+    evitar re-renders, la sincronización de audio y el diseño visual personalizado.
+
+¡De esta manera, el nuevo proyecto iniciará con el 100% del poder de desarrollo!
+
+================================================================================
+Creado por Cody para Josué — ¡Listo y preparado para cuando desees iniciar!
+================================================================================
