@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Background: Pure black with rounded corners -->
+  <rect width="512" height="512" rx="112" fill="#000000" />
+  
+  <defs>
+    <!-- White Neon Glow Filter -->
+    <filter id="neon-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <!-- Deep white glow -->
+      <feGaussianBlur stdDeviation="12" result="blur1" />
+      <feGaussianBlur stdDeviation="24" result="blur2" />
+      <feGaussianBlur stdDeviation="40" result="blur3" />
+      <!-- Merge layers together with the original sharp graphic -->
+      <feMerge>
+        <feMergeNode in="blur3" />
+        <feMergeNode in="blur2" />
+        <feMergeNode in="blur1" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Glowing neon white number 1 -->
+  <text 
+    x="50%" 
+    y="55%" 
+    font-family="system-ui, -apple-system, 'SF Pro Display', Roboto, Helvetica, sans-serif" 
+    font-weight="900" 
+    font-size="340" 
+    fill="#FFFFFF" 
+    text-anchor="middle" 
+    dominant-baseline="middle" 
+    filter="url(#neon-glow)"
+    style="letter-spacing: -10px;"
+  >1</text>
+</svg>
